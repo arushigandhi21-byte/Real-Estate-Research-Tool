@@ -1,4 +1,4 @@
-# GenAI Project 1
+# Real Estate Research Tool
 
 This repository contains two LangChain notebooks and a Streamlit research app.
 
