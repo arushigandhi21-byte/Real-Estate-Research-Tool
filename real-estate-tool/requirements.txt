@@ -1,0 +1,12 @@
+ipykernel>=7,<8
+beautifulsoup4>=4.14,<5
+langchain-chroma>=1.1,<2
+langchain-community>=0.4,<1
+langchain-groq>=1.1,<2
+langchain-huggingface>=1.2,<2
+langchain-text-splitters>=1,<2
+python-dotenv>=1.1,<2
+requests>=2.32,<3
+sentence-transformers>=6,<7
+streamlit>=1.50,<2
+unstructured>=0.18,<1
